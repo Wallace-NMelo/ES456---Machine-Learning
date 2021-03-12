@@ -4,7 +4,7 @@ Disciplina de Aprendizagem de Máquina Lecionada no período de 2020.3 no Depart
 
 A Avaliação da Cadeira foi feita por uma séries de listas que foram implementas sem bibliotecas auxiliares de machine learning.
 
-[Ementa do Curso](Ementa do Curso.pdf)
+[Ementa do Curso](https://github.com/Wallace-NMelo/ES456---Machine-Learning/blob/main/Ementa%20do%20Curso.pdf)
 
 [Lista do Monitor](Listas de Exercício/Lista_Monitor/lista_monitor.pdf)
 
