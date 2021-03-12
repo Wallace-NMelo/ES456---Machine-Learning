@@ -1,0 +1,21 @@
+Templates úteis em latex:
+
+Template CV:
+
+https://www.overleaf.com/read/dgrdgkbnpkkp
+
+Template Homework:
+
+https://www.overleaf.com/read/pcxrjmsdyfyc
+
+Template GERAL:
+
+https://www.overleaf.com/read/zfkntqqrptzm
+
+Template Beamer:
+
+https://www.overleaf.com/read/vgcqsrqfmsrf
+
+Template SPLIT:
+
+https://www.overleaf.com/read/kmcdhvjbffhk

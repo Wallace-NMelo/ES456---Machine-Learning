@@ -1,0 +1,43 @@
+Curso de Machine Learning de Stanford:
+
+	https://see.stanford.edu/Course/CS229
+
+Curso de Otimização Convexa de Stanford:
+
+	https://see.stanford.edu/Course/EE364A
+
+	https://see.stanford.edu/Course/EE364B
+
+	http://web.stanford.edu/class/ee364a/index.html
+
+Escrevendo em Matemática:
+
+	https://www.overleaf.com/read/vmgqmpbjrwdg
+
+Melhores Journals de IA:
+
+	IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+	IEEE Transactions on Fuzzy Systems
+
+	IEEE Transactions on Neural Networks and Learning Systems
+
+	Journal of Machine Learning Research
+
+	Journal of Artificial Intelligence Research
+
+	Expert Systems with Applications
+
+	Knowledge-Based Systems
+
+	Information Sciences
+
+	IEEE Transactions on Knowledge and Data Engineering
+
+Melhores Conferências de IA:
+
+	NeuRIPS
+
+	ICML
+
+	ICMLA
